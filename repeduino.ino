@@ -1,4 +1,4 @@
-#define versionx "V14c 08.2015"
+#define versionx "V14d 11.2015"
 //**********************************************************
 // F5KRY-F4ASS-F1FWG
 // ??? encore PSHIIIIT au 1er essai ?
@@ -341,7 +341,7 @@ int tempo_montee_relais_reset              =   50;  // ms. tempo montée du rela
 int tempo_ouverture, tempo_ouverture_reset =  250;  // ms. tempo pour éviter ouverture sur parasite
 int tempo_fermeture, tempo_fermeture_reset =  500;  // ms. tempo pour éviter fermeture sur QSB mobile
 int tempo_maintien, tempo_maintien_reset   = 6000;  // ms. tempo de maintien du relais avant arrêt
-int tempo_passage_K, tempo_passage_K_reset = 1500;  // ms. tempo avant passage du K
+int tempo_passage_K, tempo_passage_K_reset =  500;  // ms. tempo avant passage du K
 int kpasse = true;      // mémoire K passé
 
 // temporisations en SECONDES
