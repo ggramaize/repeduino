@@ -1,0 +1,75 @@
+#######################################
+# Syntax Coloring Map For
+#	Goodfields.h
+#Routines diverses par F1FWG
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+# KEYWORD1 est en orange
+#Goodfields_ger	KEYWORD1
+decl1300_morse KEYWORD1
+ger_clavier KEYWORD1
+ger_format KEYWORD1
+ger_clavier KEYWORD1
+ger_lcd_bargraph KEYWORD1
+ger_serial KEYWORD1
+ger_time KEYWORD1
+gest1300_morse KEYWORD1
+gest1400_morse KEYWORD1
+graf0100_freq KEYWORD1
+graph1300_morse KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+# KEYWORD2 est en orange
+Init	KEYWORD2
+formatf	KEYWORD2
+formatt	KEYWORD2
+gmt_decalage_determine KEYWORD2
+horodatage_d KEYWORD2
+horodatage_e KEYWORD2
+horodatage_h KEYWORD2
+horodatage_c KEYWORD2
+horodatage_m KEYWORD2
+horodatage_l KEYWORD2
+horodatage_lcd KEYWORD2
+doubledigit KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1,2)
+#######################################
+# LITERAL1 est en orange
+# LITERAL2 est en bleu
+
+top_1	LITERAL2
+top_10	LITERAL2
+top_100ms	LITERAL2
+#top_250ms	LITERAL2
+#top_500ms	LITERAL2
+top_1000ms	LITERAL2
+top_60000ms	LITERAL2
+top_55s	LITERAL2
+milliseconde	LITERAL2
+previousSecond	LITERAL2
+previous1	LITERAL2
+previous10	LITERAL2
+previous100	LITERAL2
+#previous250	LITERAL2
+#previous500	LITERAL2
+previous1000	LITERAL2
+jours	LITERAL2
+horloge_synchronisee	LITERAL2
+horloge_synchro_tempo	LITERAL2
+horloge_synchro_tempo_reset	LITERAL2
+gmt_decalage	LITERAL2
+gmt_ete	LITERAL2
+gmt_hiver	LITERAL2
+gmt_startup	LITERAL2
+tutc LITERAL2
+
+# LITERAL3 est en gris gras
+
